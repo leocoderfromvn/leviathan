@@ -79,7 +79,7 @@ attack_actions = {}
 
 # Main menu
 def main_menu():
-    print """
+    print ""
 
 Select from the menu:
 
